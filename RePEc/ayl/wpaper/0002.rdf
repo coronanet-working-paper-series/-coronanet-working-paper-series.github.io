@@ -1,47 +1,41 @@
 Template-Type: ReDIF-Paper 1.0
-Author-Name:  Daniel Rais
-Author-Name-First: Daniel
-Author-Name-Last: Rais
-Author-Name:  Peter Lawater
-Author-Name-First: Peter
-Author-Name-Last: Lawater
-Author-Email:  p.lawater@grandiose.edu
-Author-Workplace-Name: Department of Economics, Grandiose University
-Author-Name:  Jonathan Goldman
-Author-Name-First: Jonathan
-Author-Name-Last: Goldman
-Author-Workplace-Name: Department of Finance, Grandiose University
-Author-Name:  Zhiwei Chui
-Author-Name-First: Zhiwei
-Author-Name-Last: Chui
-Title:  Phases of Imitation and Innovation in a North-South Endogenous Growth
-Model
-Abstract:  In this paper, we develop a North-South endogenous growth model to
-examine three phases of development in the South: imitation of Northern
-products, imitation and innovation and finally, innovation only.
-In particular, the model has the features of catching up (and
-potentially overtaking) which are of particular relevance to the Pacific Rim
-economies.  We show that the possible equilibria
-depend on cross-country assimilation effects and the ease of
-imitation.  We then apply the model to analyse the impact of R&D
-subsidies.  There are some clear global policy implications which emerge
-from our analysis.  Firstly, because subsidies to Southern innovation
-benefit the North as well, it is beneficial to the North to pay for some of
-these subsidies.  Secondly, because the ability of the South to assimilate
-Northern knowledge and innovate depends on Southern skills levels, the
-consequent spillover benefits on growth make the subsidising
-of Southern education by the North particularly attractive.
-Length:  26 pages
-Creation-Date:  1996-07
-Revision-Date: 1998-01
-Publication-Status: Published in Review of Economics, March 1999, pages 1-23
+Author-Name:  Bohee Lee
+Author-Name-First: Bohee
+Author-Name-Last: Lee
+Author-Email: bohee.lee@ed.ac.uk
+Author-Name:  Siti Aishah Ibrahim
+Author-Name-First: Siti Aishah
+Author-Name-Last: Ibrahim
+Author-Email:  dr.aishahibrahim@gmail.com
+Author-Name:  Tiying Zhang
+Author-Name-First: Tiying
+Author-Name-Last: Zhang
+Author-Email: tiying666@gmail.com
+Title:  Mobile Applications Leveraged in the COVID-19 Pandemic in East and South-East Asia: A Review and Content Analysis
+Abstract:  world.
+Abstract
+The COVID-19 pandemic led to increased attention to digital tools to support governmental public health policies in East and 
+South-East Asia. Mobile applications (or apps) related to COVID-19 continue to emerge and evolve with a wide variety of 
+characteristics and functions. However, there is a paucity of studies evaluating such apps, with most of the available studies 
+conducted in the early days of the pandemic. This study aimed to examine free apps developed or supported by governments in the 
+East and South-East Asian regions and highlight their key characteristics and functions. Also, we aimed to interpret how other 
+COVID-19 policies were associated with the introduction of these apps. We systematically searched for apps in the Apple App Store 
+and the Google Play Store and analysed the contents of eligible apps. We included the mobile apps released or updated between 1 
+March 2020 and 7 May 2021 in Singapore, Taiwan, South Korea, China, Japan, Thailand, Hong Kong, Vietnam, Malaysia, Indonesia and 
+the Philippines. The CoronaNet Research Project database was also used to examine the timeline of public health policy commencement 
+dates to the release dates of the included apps. Of the 1,943 mobile apps initially identified, 46 were eligible, with almost 70% of
+the mobile apps being intended for the general public. The most common function was health monitoring, followed by raising public health 
+awareness through education and information dissemination. Significantly, most apps for quarantine monitoring were mandatory for the target
+users or a population subset. Most mobile apps emerged close to the public health policy commencement dates in the early stages of the pandemic. 
+Mobile apps with functions related to COVID-19 vaccines began to appear parallel to vaccination rollout. In East and South-East Asia, most governments 
+employed mobile health apps as adjuncts to public health measures in this pandemic for tracking COVID-19 cases and delivering credible information.
+Length:  31 pages
+Creation-Date:  2021-12
+Revision-Date: 2022-06
+Publication-Status: Working Paper
 File-URL: https://coronanet-working-paper-series.github.io/papers/0002.pdf
 File-Format: Application/pdf
-File-Function: First version, 1996
-File-URL: https://coronanet-working-paper-series.github.io/papers/0002R1.pdf
-File-Format: Application/pdf
-File-Function: Revised version, 1998
-Number: 9602
-Classification-JEL: E32, R10
-Keywords: North-South, growth model, innovation assimilation
+File-Function: First version, 2021
+Number: 02/2021
+Keywords: mobile applications; eHealth; mHealth; digital health; telemedicine; telehealth; COVID-19; coronavirus; pandemic
 Handle: RePEc:ayl:wpaper:0002
